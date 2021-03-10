@@ -1,4 +1,4 @@
-gipackage com.cc.nonstickylivedata;
+package com.cc.nonstickylivedata;
 
 import androidx.appcompat.app.AppCompatActivity;
 
